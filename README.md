@@ -2,7 +2,7 @@
 Repozitorij namenjen razvijanju raziskovalne/maturitetne naloge
 
 #Prototip designa za spletno stran
-Link do designa:https://www.figma.com/design/yvfi5tBlq3RCqcBiczBnAT/Untitled?node-id=0-1&t=JXxY35TjcF8wVG5F-1
+Link do designa:https://www.figma.com/design/dFO5PyD3s3aeOK5Cb6DcTO/Dija%C5%A1ka-gradiva-%E2%80%93-Landing-Page?node-id=0-1&t=2o1mYeTD7OtNIcet-1
 
 #Hipoteze
 1. IZ ANKETE
