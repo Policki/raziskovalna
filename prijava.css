@@ -1,0 +1,19 @@
+.div{
+    border:1px, solid,red;
+}
+.body{
+    background: #F8F5EB;
+}
+.header{
+    align-items: center;
+    display: flex;
+}
+.spacer{
+    width:80%;
+}
+.spacer1{
+    width:30px;
+}
+.gumb-registracija{
+    border: 3px,solid,black;
+}
